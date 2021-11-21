@@ -16,4 +16,5 @@
 — Zał. 14 – Model sieci  
 — Zał. 15 – Program w języku Python przeprowadzający uczenie uzyskanego modelu sieci  
 — Zał. 16 – Uzyskane wagi modelu  
-— Zał. 17 – Program w języku Python wyświetlający predykcje modelu dla zadanego filmu — Zał. 18 – Film pokazujący poprawne działanie uzyskanego modelu  
+— Zał. 17 – Program w języku Python wyświetlający predykcje modelu dla zadanego filmu  
+— Zał. 18 – Film pokazujący poprawne działanie uzyskanego modelu  
