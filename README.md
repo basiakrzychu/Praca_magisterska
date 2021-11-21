@@ -1,5 +1,7 @@
 # Praca_magisterska
 
+https://youtu.be/4PSkZYz8SJA -Zał. 18
+
 — Zał. 1 – Program w języku Python wydzielający pojedyncze klatki dla metody wykorzystującej klasyfikator Haar’a  
 — Zał. 2 – Program w języku Python umożliwiający zaznaczenie pozytywnych próbek dla klasyfikatora Haar’a  
 — Zał. 3 – Program w języku Python wydzielający pojedyncze klatki dla metody wykorzystującej uczenie maszynowe  
